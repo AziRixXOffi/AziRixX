@@ -2,8 +2,10 @@
 
 ## 💥Experiences
 
-![asvadia](https://user-images.githubusercontent.com/73166699/165523925-f998cbb3-50f3-445e-a5ab-75a2e5fd8d60.png) ## Admin Asvadia (Lead Developer)
-![doigcraft](https://user-images.githubusercontent.com/73166699/165523937-c84d4ec8-5208-4490-881f-58f1381e0365.png) ## Lead Developer Doigcraft
+
+![asvadia](https://user-images.githubusercontent.com/73166699/165523925-f998cbb3-50f3-445e-a5ab-75a2e5fd8d60.png) Admin Asvadia (Lead Developer)
+
+![doigcraft](https://user-images.githubusercontent.com/73166699/165523937-c84d4ec8-5208-4490-881f-58f1381e0365.png) Lead Developer Doigcraft
 
 ## 🏆 Skills
 
