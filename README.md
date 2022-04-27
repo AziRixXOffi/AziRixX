@@ -9,4 +9,4 @@
 ![intellij](https://user-images.githubusercontent.com/41534598/108599316-bf7c2080-7390-11eb-8d7d-2a95f97a2fda.png)
 
 ## 📈 Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AziRixXOffi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AziRixXOffi&layout=compact&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AziRixXOffi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AziRixXOffi&layout=compact&theme=dracula)
