@@ -27,7 +27,7 @@
     <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
   </a>
   <a>
-    <img alt="java" src="  https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
+    <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
   </a>
 </p>
 
@@ -35,9 +35,9 @@
 ## Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank">
-    AziRixX#8648
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="30" width="40" />
   </a>
+  AziRixX#8648
 </p>
 
 -----
