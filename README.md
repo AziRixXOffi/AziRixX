@@ -34,10 +34,10 @@
 ## 🔧 WorkSpace
 ![intellij](https://user-images.githubusercontent.com/73166699/165522058-2102c717-57a4-4db5-8229-3726a549969a.png)
 
-## Contact Me
+## ☎️ Contact Me
 <p align="left">
   <a href="#" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="75" width="175"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="75" width="185"/>
   </a>
   AziRixX#8648
 </p>
