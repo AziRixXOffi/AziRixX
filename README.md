@@ -1,4 +1,4 @@
-# Hello there I am Viral Bhadeshiya👋
+# 👋 Hey ! Welcome to AziRixX's github 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -38,7 +38,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AziRixXOffi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username= AziRixXOffi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AziRixXOffi&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
   <br>
   <br>
  </p>
