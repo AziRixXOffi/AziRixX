@@ -35,7 +35,7 @@
 ## Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="50" width="60" />
   </a>
   AziRixX#8648
 </p>
