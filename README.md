@@ -37,7 +37,7 @@
 ## ☎️ Contact Me
 <p align="left">
   <a href="#" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="75" width="190"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="75" width="200"/>
   </a>
   AziRixX#8648
 </p>
