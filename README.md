@@ -1,23 +1,44 @@
-### Hey ! Welcome to AziRixX's github 
+# Hello there I am Viral Bhadeshiya👋
 
-## 💥Experiences
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-![asvadia](https://user-images.githubusercontent.com/73166699/165523925-f998cbb3-50f3-445e-a5ab-75a2e5fd8d60.png) Admin [Asvadia](https://asvadia.eu)
+## 🏆 Skills 
+<p align="left"> 
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+  &emsp;
+  <a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="mysql" src="https://img.shields.io/badge/-mysql-blue?logo=mysql&logoColor=white"/>
+  </a>
+</p>
 
-![doigcraft](https://user-images.githubusercontent.com/73166699/165523937-c84d4ec8-5208-4490-881f-58f1381e0365.png) Lead Developer [Doigcraft](https://oseria.fr)
 
-## 🏆 Skills
+## Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank">
+    AziRixX#8648
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="30" width="40" />
+  </a>
+</p>
 
-![java](https://user-images.githubusercontent.com/73166699/165522017-3729d920-cb1e-48f1-813c-925c3944d0ca.png)
-![spring-boot](https://user-images.githubusercontent.com/73166699/165522030-b449bb60-f185-493f-b035-bfe153fa5862.png)
-![sql](https://user-images.githubusercontent.com/73166699/165522035-473033e6-8add-40cb-a503-ce0b02743218.png)
-![redis](https://user-images.githubusercontent.com/73166699/165522041-139190b9-3dfd-485a-b188-ca6be57d3bc0.png)
-![js](https://user-images.githubusercontent.com/73166699/165522052-a437ce92-2370-4ff1-808e-d8d0cf88b195.png)
-
-## 🔧 WorkSpace
-
-![intellij](https://user-images.githubusercontent.com/73166699/165522058-2102c717-57a4-4db5-8229-3726a549969a.png)
-
-## 📈 Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AziRixXOffi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AziRixXOffi&layout=compact&theme=dracula)
+-----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AziRixXOffi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username= AziRixXOffi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AziRixXOffi&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
