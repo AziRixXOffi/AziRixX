@@ -21,9 +21,11 @@
   <a>
     <img alt="mysql" src="https://img.shields.io/badge/-mysql-blue?logo=mysql&logoColor=white"/>
   </a>
+  &emsp;
   <a>
     <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
   </a>
+  &emsp;
   <a>
     <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
   </a>
@@ -33,7 +35,7 @@
 ## Contact Me
 <p align="left">
   <a href="#" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Discord-Logo.png" alt="AziRixX" height="75" width="175"/>
   </a>
   AziRixX#8648
 </p>
