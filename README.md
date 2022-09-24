@@ -29,6 +29,12 @@
   <a>
     <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
   </a>
+  <a>
+    <img alt="mongo" src="https://img.shields.io/badge/-mongo-white?logo=mongodb&logoColor=black"/>
+  </a>
+  <a>
+    <img alt="influx" src="https://img.shields.io/badge/-influx-white?logo=influxdb&logoColor=red"/>
+  </a>
 </p>
 
 ## 🔧 WorkSpace
