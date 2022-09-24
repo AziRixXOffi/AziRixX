@@ -7,6 +7,14 @@
    </a>
   &emsp;
   <a>
+    <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
+  </a>
+  &emsp;
+  <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
   &emsp;
@@ -23,15 +31,9 @@
   </a>
   &emsp;
   <a>
-    <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
-  </a>
-  <a>
     <img alt="mongo" src="https://img.shields.io/badge/-mongo-white?logo=mongodb&logoColor=black"/>
   </a>
+  &emsp;
   <a>
     <img alt="influx" src="https://img.shields.io/badge/-influx-white?logo=influxdb&logoColor=red"/>
   </a>
