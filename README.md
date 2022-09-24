@@ -11,7 +11,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="java" src="https://img.shields.io/badge/-Java-black?logo=java&logoColor=orange"/>
+    <img alt="java" src="https://img.shields.io/badge/-java-orange?logo=intellijidea&logoColor=black"/>
   </a>
   &emsp;
   <a>
@@ -19,7 +19,7 @@
   </a>
   &emsp;
   <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+    <img alt="maven" src="https://img.shields.io/badge/-maven-black?logo=apachemaven&logoColor=orange">
   </a>
   &emsp;
   <a>
