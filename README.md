@@ -26,7 +26,6 @@
 
 ## 🏆 Skills 
 <p align="left"> 
-  &emsp;
   <a>
     <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
   </a>
@@ -55,6 +54,15 @@
     <img alt="influx" src="https://img.shields.io/badge/-InfluxDB-white?logo=influxdb&logoColor=red"/>
   </a>
 </p>
+
+## 📚 Learning 
+<p align="left"> 
+  <a>
+    <img alt="c" src="https://img.shields.io/badge/-C-blue?logo=C&logoColor=white"/>
+  </a>
+  <a>
+    <img alt="c++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white"/>
+  </a>
 
 ## 🔧 WorkSpace
 ![intellij](https://user-images.githubusercontent.com/73166699/165522058-2102c717-57a4-4db5-8229-3726a549969a.png)
