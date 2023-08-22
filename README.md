@@ -1,41 +1,58 @@
 # 👋 Hey ! Welcome to AziRixX's github 
 
+## 🔧 Languages 
+<p align="left"> 
+  <a>
+    <img alt="java" src="https://img.shields.io/badge/-Java-orange?logo=coffeescript&logoColor=black"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="python" src="https://img.shields.io/badge/-Python-green?logo=python&logoColor=light_green"/>
+  </a>
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a>
+    <img alt="html" src="https://img.shields.io/badge/-html-blue?logo=Html5&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="css" src="https://img.shields.io/badge/-css-red?logo=Css3&logoColor=white"/>
+  </a>
+  &emsp;
+</p>
+
 ## 🏆 Skills 
 <p align="left"> 
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
   &emsp;
   <a>
     <img alt="spring" src="https://img.shields.io/badge/-Spring-gray?logo=spring&logoColor=green"/>
   </a>
   &emsp;
   <a>
-    <img alt="java" src="https://img.shields.io/badge/-java-orange?logo=intellijidea&logoColor=black"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white"/>
   </a>
   &emsp;
   <a> 
-    <img alt="maven" src="https://img.shields.io/badge/-maven-black?logo=apachemaven&logoColor=orange">
+    <img alt="maven" src="https://img.shields.io/badge/-Maven-black?logo=apachemaven&logoColor=orange">
   </a>
   &emsp;
   <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+    <img alt="redis" src="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white"/>
   </a>
   &emsp;
   <a>
-    <img alt="mysql" src="https://img.shields.io/badge/-mysql-blue?logo=mysql&logoColor=white"/>
+    <img alt="mysql" src="https://img.shields.io/badge/-MariaDB-blue?logo=mysql&logoColor=white"/>
   </a>
   &emsp;
   <a>
-    <img alt="mongo" src="https://img.shields.io/badge/-mongo-white?logo=mongodb&logoColor=black"/>
+    <img alt="mongo" src="https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=black"/>
   </a>
   &emsp;
   <a>
-    <img alt="influx" src="https://img.shields.io/badge/-influx-white?logo=influxdb&logoColor=red"/>
+    <img alt="influx" src="https://img.shields.io/badge/-InfluxDB-white?logo=influxdb&logoColor=red"/>
   </a>
 </p>
 
