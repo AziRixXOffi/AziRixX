@@ -66,6 +66,7 @@
 
 ## 🔧 WorkSpace
 ![intellij](https://user-images.githubusercontent.com/73166699/165522058-2102c717-57a4-4db5-8229-3726a549969a.png)
+![CLION-550x550 (2)](https://github.com/AziRixXOffi/AziRixXOffi/assets/73166699/75dacad5-a216-46cc-89ff-00d0d2238529)
 
 
 ## 📈 Statistics
