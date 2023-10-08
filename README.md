@@ -1,4 +1,4 @@
-# 👋 Hey ! Welcome to AziRixX's github 
+# Welcome to AziRixX's github 
 
 ## 💻 Languages 
 <p align="left"> 
